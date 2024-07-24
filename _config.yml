@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_8691"
+  avatar           : "IMG_8691.jpg"
   name             : "Kenny Nguyen"
   pronouns         : "He/Him"  
   bio              : "Mathematics @ Berkeley"
